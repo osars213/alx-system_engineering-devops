@@ -1,2 +1,2 @@
 #!/bin/bash
-Delete file Betty
+Delete the file Betty
