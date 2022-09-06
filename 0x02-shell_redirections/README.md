@@ -1,1 +1,4 @@
-Write a script that prints “Hello, World”, followed by a new line to the standard output
+#!/bin/bash
+vi 0-hello_world < vim editor >
+chmod u+x <make a sript>
+
