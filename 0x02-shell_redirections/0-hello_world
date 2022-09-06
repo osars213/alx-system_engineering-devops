@@ -1,2 +1,3 @@
 #!/bin/bash
+vim Hello, World
 echo “Hello, World"
